@@ -1,4 +1,4 @@
-class Sorter {
+~class Sorter {
   constructor() {
     // your implementation
   }
@@ -25,6 +25,7 @@ class Sorter {
 
   setComparator(compareFunction) {
     // your implementation
+    
   }
 }
 
